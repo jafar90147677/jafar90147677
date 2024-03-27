@@ -6,21 +6,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jafar90147677&label=Profile%20views&color=0e75b6&style=flat" alt="jafar90147677" /> </p>
 
-- 🔭 I’m have been worked on [portfolio](https://jafar90147677.github.io/portfolio-website.github.io/)
+- 🔭  I've been developing my [portfolio](https://jafar90147677.github.io/portfolio-website.github.io/)
 
 - 🌱 I’m currently learning **react.js and node.js**
 
-- 🔭 I’m have been worked on [woodzone](https://jafar90147677.github.io/WoodZone2-website.github.io/)
+- 🔭I've also contributed to the [ Woodzone project](https://jafar90147677.github.io/WoodZone2-website.github.io/)
 
-- 🔭 I’m have been worked on **fraud detection of bank transactions using machine learning l**
+- 🔭  Additionally, I've worked on **fraud detection in bank transactions using machine learning** 
 
-- 👨‍💻 All of my projects are available at [https://jafar90147677.github.io/portfolio-website.github.io/](https://jafar90147677.github.io/portfolio-website.github.io/)
+- 👨‍💻 You can find all of my projects at [https://jafar90147677.github.io/portfolio-website.github.io/](https://jafar90147677.github.io/portfolio-website.github.io/)
 
-- 💬 Ask me about **html,css,javascript,reactjs,nodejs,exprassjs,sql**
+- 💬 Feel free to ask me about **HTML, CSS, JavaScript, React.js, Node.js, Express.js, and SQL**
 
-- 📫 How to reach me **jafarsadiqe.2001@gmail.com**
+- 📫 You can reach me at **jafarsadiqe.2001@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xZ-v5XcrL0rwhAfwT0Es5WFBMZGSunr0/view?usp=drivesdk](https://drive.google.com/file/d/1xZ-v5XcrL0rwhAfwT0Es5WFBMZGSunr0/view?usp=drivesdk)
+- 📄  Check out my experiences here [https://drive.google.com/file/d/1xZ-v5XcrL0rwhAfwT0Es5WFBMZGSunr0/view?usp=drivesdk](https://drive.google.com/file/d/1xZ-v5XcrL0rwhAfwT0Es5WFBMZGSunr0/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
