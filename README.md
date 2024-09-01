@@ -1,5 +1,8 @@
+![logo](https://github.com/jafar90147677/jafar90147677/assets/111862240/ca16d615-2ff1-4c57-8918-7336e4eabbc4)
 <h1 align="center">Hi 👋, I'm Mohammed Jafar Sadiqe</h1>
 <h3 align="center">A passionate Front-end developer and Data Analyst from India</h3>
+
+<img align="right" alt="coding" Width="400" src="[https://github.com/jafar90147677/jafar90147677/assets/111862240/30ea3a2b-a4df-4c7f-8345-7f271017bd8f](https://www.canva.com/design/DAGAgCFxQIs/2cXkizZGGyyJDjMo9kBYqQ/edit?utm_content=DAGAgCFxQIs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jafar90147677&label=Profile%20views&color=0e75b6&style=flat" alt="jafar90147677" /> </p>
 
