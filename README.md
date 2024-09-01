@@ -1,4 +1,4 @@
-![logo](https://www.canva.com/design/DAGAgCFxQIs/2cXkizZGGyyJDjMo9kBYqQ/edit?utm_content=DAGAgCFxQIs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![logo](https://github.com/jafar90147677/jafar90147677/blob/main/Black%20Modern%20Vlogger%20YouTube%20Banner.png)
 <h1 align="center">Hi 👋, I'm Mohammed Jafar Sadiqe</h1>
 <h3 align="center">A passionate Front-end developer and Data Analyst from India</h3>
 
