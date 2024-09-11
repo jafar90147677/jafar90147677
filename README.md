@@ -4,7 +4,7 @@
 
 <img align="right" alt="coding" Width="400" src="https://github.com/jafar90147677/jafar90147677/blob/main/817442226DataConsultant.jpg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jafar90147677&label=Profile%20views&color=0e75b6&style=flat" alt="jafar90147677" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=jafar90147677&label=Profile%20views&color=0e75b6&style=flat" alt="jafar90147677" /> </p>
 
 - 🔭  I'm have been worked on [portfolio](https://jafar90147677.github.io/portfolio-website.github.io/)
 
