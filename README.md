@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Mohammed Jafar Sadiqe</h1>
 <h3 align="center">A passionate Front-end developer and Data Analyst from India</h3>
 
-<img align="right" alt="coding" Width="300" src="https://github.com/jafar90147677/jafar90147677/blob/main/817442226DataConsultant.jpg">
 <img align="right" alt="coding" Width="400" src="https://github.com/jafar90147677/jafar90147677/blob/main/817442226DataConsultant.jpg">
 
 
