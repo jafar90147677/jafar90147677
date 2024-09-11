@@ -3,6 +3,8 @@
 <h3 align="center">A passionate Front-end developer and Data Analyst from India</h3>
 
 <img align="right" alt="coding" Width="300" src="https://github.com/jafar90147677/jafar90147677/blob/main/817442226DataConsultant.jpg">
+<img align="right" alt="coding" Width="400" src="https://github.com/jafar90147677/jafar90147677/assets/111862240/30ea3a2b-a4df-4c7f-8345-7f271017bd8f">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jafar90147677&label=Profile%20views&color=0e75b6&style=flat" alt="jafar90147677" /> </p>
 
