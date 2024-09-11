@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Mohammed Jafar Sadiqe</h1>
 <h3 align="center">A passionate Front-end developer and Data Analyst from India</h3>
 
-<img align="right" alt="coding" Width="400" src="https://github.com/jafar90147677/jafar90147677/blob/main/817442226DataConsultant.jpg">
+<img align="left" alt="coding" Width="400" src="https://github.com/jafar90147677/jafar90147677/blob/main/817442226DataConsultant.jpg">
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=jafar90147677&label=Profile%20views&color=0e75b6&style=flat" alt="jafar90147677" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jafar90147677&label=Profile%20views&color=0e75b6&style=flat" alt="jafar90147677" /> </p>
 
 - 🔭  I'm have been worked on [portfolio](https://jafar90147677.github.io/portfolio-website.github.io/)
 
