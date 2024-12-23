@@ -1,6 +1,6 @@
 ![logo](https://github.com/jafar90147677/jafar90147677/blob/main/Black%20Modern%20Vlogger%20YouTube%20Banner.png)
 <h1 align="center">Hi 👋, I'm Mohammed Jafar Sadiqe</h1>
-<h3 align="center">A passionate Front-end developer and Data Analyst from India</h3>
+<h3 align="center">A passionate Data Scientist and Data Analyst from India</h3>
 
 <img align="right" alt="coding" Width="400" src="https://github.com/jafar90147677/jafar90147677/blob/main/817442226DataConsultant.jpg">
 
