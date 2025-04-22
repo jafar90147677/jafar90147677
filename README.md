@@ -27,7 +27,7 @@
 
 - 📫 How to reach me **jafarsadiqe.2001@gmail.com**
 
-- 📄  Check out my experiences here [https://drive.google.com/file/d/1xZ-v5XcrL0rwhAfwT0Es5WFBMZGSunr0/view?usp=drivesdk](https://drive.google.com/file/d/1xZ-v5XcrL0rwhAfwT0Es5WFBMZGSunr0/view?usp=drivesdk)
+- 📄  Check out my experiences here [https://drive.google.com/file/d/1CZtgZiWLgCJe5osnJEFzCL8Ya8nfgtqz/view?usp=sharing](https://drive.google.com/file/d/1CZtgZiWLgCJe5osnJEFzCL8Ya8nfgtqz/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
